@@ -8,7 +8,7 @@ import java.util.Random;
 
 import weka.classifiers.Evaluation;
 import weka.classifiers.bayes.NaiveBayes;
-public class Classification {
+public class NaiveBayes_Classification_API {
 	
 	public static void main(String arg[]) {
 	try {
